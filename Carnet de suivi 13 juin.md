@@ -8,20 +8,20 @@
 
 * 15h - 16h30 : Changement dans la prise en compte de l'effet de serre : L'atmosphère n'est plus à l'équilibre thermique. On a donc le système différentiel suivant : 
 
-$\begin{cases}
+$$\begin{cases}
 dT_{Terre} = [(1-\alpha)P_{sol} +\sigma(T_{atmo}^4-T_{Terre}^4)]\frac{dt}{C_{Terre}\rho_{Terre}Profondeur} \\
 dT_{atmo} = \sigma(T_{Terre}^4-T_{atmo}^4)\frac{dt}{C_{atmo}\rho_{atmo}e_{atm}}
-\end{cases}$
+\end{cases}$$
 
   Résolution numérique avec Euler.
   Résultats cohérents mais un chouïa trop élevés l'été.
 
 * 16h30 - 17h30 : On considère que l'atmosphère n'est plus un corps noir, elle absorbe une fraction $\mathbf{\epsilon}$ de ce qu'émet la Terre et le reste est renvoyé dans le vide intersidéral. Correction d'un facteur 2 oublié : l'atmosphère rayonne vers l'intérieur et l'extérieur de la Terre. Le système précédent devient : 
 
-$\begin{cases}
+$$\begin{cases}
 dT_{Terre} = [(1-\alpha)P_{sol} +\sigma(T_{atmo}^4-T_{Terre}^4)]\frac{dt}{C_{Terre}\rho_{Terre}Profondeur} \\
 dT_{atmo} = \sigma(\mathbf{\epsilon}T_{Terre}^4-2T_{atmo}^4)\frac{dt}{C_{atmo}\rho_{atmo}e_{atm}}
-\end{cases}$
+\end{cases}$$
 
 * 17h30 - 17h40 : Réunion débrief avec toute l'équipe
 
