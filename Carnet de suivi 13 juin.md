@@ -1,3 +1,5 @@
+[comment]: <> (Si la compilation de ce fichier ne fonctionne pas, vous pouvez le retrouver en ligne directement sur cette page Github : https://github.com/Babou-69/Carnet-de-suivi/blob/main/Carnet%20de%20suivi%2013%20juin.md)
+
 ## **Jeudi 12 juin - Après-midi : Projet à 11**
 * 14h - 15h : [Avec Zahara, Mélusine, Blandine] : 
   * Intégration de la dépendance de la capacité en fonction de la latitude et de la longitude. 
