@@ -37,7 +37,8 @@
 * 14h - 16h : Présentations projets à 3.
 * 16h - 17h [*En groupe*] :
 * * Modifications et réarrangement du Github
-* 17h - 17h20 [*seul*] :
+* 17h - 17h10 [*seul*] : Pause
+* 17h10 - 17h40 [*seul*] :
 * * Création d'un fichier .md [Explication _code_avec_appel_biblio_.md](https://github.com/z-the-turtle/Projet_CREPES/blob/main/Dossier%20final/GUI%20et%20code/Explication%20_code_avec_appel_biblio_.md) qui explique le [code](https://github.com/z-the-turtle/Projet_CREPES/blob/main/Dossier%20final/GUI%20et%20code/Code_avec_appel_biblio.py) principal, sans GUI.
-* 17h20 - 17h30  [*Avec l'équipe*]: 
+* 17h40 - 17h50  [*Avec l'équipe*]: 
 * * Réunion listant ce qu'il  reste à faire.
