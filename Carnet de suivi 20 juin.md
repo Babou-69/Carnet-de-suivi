@@ -7,7 +7,7 @@
   
   
 
-## **Jeudi 12 juin - Après-midi : Projet à 11**
+## **Jeudi 19 juin - Après-midi : Projet à 11**
 
   
 
@@ -22,7 +22,7 @@
 
 
   
-## **Vendredi 13 juin - Après-midi : Projet à 11**
+## **Vendredi 20 juin - Après-midi : Projet à 11**
 * 8h - 9h30 [*Mélusine, Blandine*] : 
 * * Modification de notre fonction de calcul de l'albédo en fonction de la longitude et de la latitude : Précédemment, nous appelions l'API de la NASA pour une longitude et une latitude donnée. Pour ne plus dépendre de l'API de la NASA (et éviter ainsi des calculs lourds), on discrétise la Terre en petites zones, on fait une bonne fois pour toute 3 appels API à la NASA pour avoir une valeur moyenne de l'albedo sur cette zone et on stocke tout dans un fichier .csv, qu'on appellera plus tard.
 *  * Exécution de la fonction précédente, beaucoup d'appels API (273,pour un découpage sommaire en 91 zones), c'est long. ***A faire*** : améliorer la précision (découpage plus fin) et faire tourner le programme de nuit sur un réseau WIFI stable.
